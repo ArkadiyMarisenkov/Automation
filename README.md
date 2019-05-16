@@ -277,7 +277,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [NetTools](https://github.com/crisponions/NetTools) - Simple network Python scripts.
 - [Network-CI](https://github.com/networkop/network-ci) - Proof of Concept of CI/CD methodology applied to traditional non-SDN network topologies.
 - [NetGrph](https://github.com/yantisj/netgrph) - Network graph modeling database.
-
+- [TRex] (https://developer.cisco.com/site/trex/?utm_sq=g0lcqxkl0i) - Traffic Generator
 # Hypervisors and Containers
 
  - [Docker](https://www.docker.com/) - Docker is a software technology providing operating system-level virtualization also known as containers, promoted by the company Docker, Inc.
